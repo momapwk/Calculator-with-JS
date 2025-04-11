@@ -17,7 +17,7 @@ const display = document.getElementById("display");
             }
 
             function multiply() {
-                display.value += "*";
+                display.value += "x";
             }
 
             function subtract() {
